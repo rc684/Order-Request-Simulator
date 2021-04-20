@@ -1,9 +1,9 @@
 # Order-Request-Simulator
-# Simulation on Call Option Order Request within 1-day (24 hours = 86,400 sec) horizon
+* Simulation on Call Option Order Request within 1-day (24 hours = 86,400 sec) horizon
 
 * European Call Option with:
-initial stock price = 100
-expected return (mu) = 0.15
+* initial stock price = 100
+* expected return (mu) = 0.15
 vol in return (sigma) = 0.2
 strike price = 90
 Time to Maturity = 1 year
